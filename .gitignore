@@ -5,6 +5,8 @@
 node_modules
 .angular/cache
 cache
+babel-webpack
+angular-webpack
 
 # Ignore all text files
 *.txt
